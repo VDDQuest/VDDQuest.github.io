@@ -22,7 +22,7 @@ avatar_image: /img/profile_picture.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/vincent-dunlop-663377298/" # Add your linkedln handle
+linkedin: "https://www.linkedin.com/in/vincent-dunlop-663377298/" # Add your linkedln handle
 github: "https://github.com/VDDQuest"  # Add your github handle
 
 paginate: 6
